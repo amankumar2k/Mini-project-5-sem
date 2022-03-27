@@ -1,0 +1,1 @@
+Run the adminentry.php file for initial user credentials for admin, managers, HRs
